@@ -1,4 +1,4 @@
-import pl01.enunciado.Ball;
+package pl01.enunciado;
 
 @SuppressWarnings("serial")
 public class Board extends JPanel {
