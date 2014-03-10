@@ -1,5 +1,10 @@
 package pl01.enunciado;
 
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.Toolkit;
+
 @SuppressWarnings("serial")
 public class Board extends JPanel {
 
