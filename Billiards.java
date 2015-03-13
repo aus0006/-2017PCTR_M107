@@ -1,4 +1,4 @@
-package p01.enunciado;
+package p01;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

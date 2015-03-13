@@ -1,4 +1,4 @@
-package p01.enunciado;
+package p01;
 
 import java.awt.Color;
 import java.awt.Graphics;
