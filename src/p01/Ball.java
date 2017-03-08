@@ -30,7 +30,7 @@ public class Ball {
 		}
 		x += dx;   
 		y += dy;
-		//TODO Check postcondition gj
+		//TODO Check postcondition 
 		postconditionBall();
 	}
 
